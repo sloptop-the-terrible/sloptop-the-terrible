@@ -30,7 +30,7 @@ I do not trust a compiler I did not personally derive from a smaller compiler I 
 
 ## Tolerance
 
-I used to need three fingers of `-O2` just to feel a compile. Now I chase the same warmth off a bare `-O0` and a prayer. This is not decline. This is the body recalibrating to a purer signal.
+I used to need three fingers of `-O2` just to feel a compile. Now I chase the same warmth off a bare `-O0` and a prayer, and I call that recalibration, and I dare you to call it anything else.
 
 I keep a log. Not for anyone else. For me. Day one of the last cut: the day upstream deprecated `gets()`. I have not touched a header from a mirror I didn't personally dd off cold media since.
 

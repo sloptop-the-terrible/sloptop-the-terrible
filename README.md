@@ -1,5 +1,7 @@
 ## sloptop
 
+I write software alone, off-grid, and I do not consider that a limitation. Everything below is how I got here and why I'm staying.
+
 Killed my eagle bootstrapping libc. Currently boofing signed tarballs.
 
 ## Doctrine

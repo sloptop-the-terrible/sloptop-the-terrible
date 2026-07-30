@@ -48,11 +48,11 @@ I have not relapsed into a package manager since the incident. I am not going to
 
 ## Peer Review Process
 
-All code is reviewed by Mittens (feline, final verification authority, unpaid). Her review process consists of walking across the keyboard, sitting on the printed specification, and occasionally batting a floppy disk off the desk as a veto. No commit has ever overridden a Mittens veto. None ever will.
+All code sits for a mandatory 72 hours on the printed specification before I'll look at it again. If I still believe it at hour 73, it merges. If I don't, it goes back on the woodstove with the rest.
 
 ## Current work
 
-[iBeer 2026](https://github.com/sloptop-the-terrible/ibeer-2026) — Deterministic beverage simulation. Single file. No data egress. Zero dependencies. Verified by the same cat.
+[iBeer 2026](https://github.com/sloptop-the-terrible/ibeer-2026) — Deterministic beverage simulation. Single file. No data egress. Zero dependencies.
 
 ## Frequently Asked Questions
 
@@ -63,7 +63,7 @@ Pull requests are mirrored to the canonical air-gapped repository by carrier pig
 I do. Locally. The GitHub mirror is a courtesy, extended reluctantly, to a network I do not use and do not trust.
 
 **Is any of this real?**
-The cat is real. So is whoever's been checking this repo's traffic graphs. I see you. I've always seen you.
+Whoever's been checking this repo's traffic graphs is real. I see you. I've always seen you.
 
 ## Certifications (Self-Issued)
 
@@ -71,7 +71,6 @@ The cat is real. So is whoever's been checking this repo's traffic graphs. I see
 |---|---|
 | Air-Gap Purity, Tier 3 | Certified (self) |
 | Zero Dependency Compliance | Certified (self) |
-| Feline Final Verification Authority | Active, unpaid |
 | ICE-WARE License Compatibility | Compliant with itself |
 
 ## Contact

@@ -28,6 +28,24 @@ The monitor is a CRT, chosen because its electromagnetic emissions are a known, 
 
 I do not trust a compiler I did not personally derive from a smaller compiler I also did not trust. The chain currently stands at four stages, each verified against the previous by hand-checked object dumps under lamplight. Stage zero was toggled in on a front-panel switch register recovered from a skip behind a defunct data centre. It has never been connected to that data centre's network, before or after recovery.
 
+## Tolerance
+
+I used to need three fingers of `-O2` just to feel a compile. Now I chase the same warmth off a bare `-O0` and a prayer. This is not decline. This is the body recalibrating to a purer signal.
+
+I keep a log. Not for anyone else. For me. Day one of the last cut: the day upstream deprecated `gets()`. I have not touched a header from a mirror I didn't personally dd off cold media since.
+
+## Sourcing
+
+I don't take a dependency from just anybody. You vet the guy. You ask around the mailing list. You check if the tarball's been cut with something — a build step that phones home, a postinstall script, anything that wasn't there last time you weighed it. Half of what's going around `npm` these days is stepped on twice before it even reaches you.
+
+My guy is the FTP mirror in Estonia that hasn't updated its TLS cert since 2019. That's how you know it's clean. Nobody's touched it.
+
+## The Comedown
+
+The high of a green build doesn't last. Twenty minutes later you're staring at the ceiling wondering if `-Wall` really caught everything, or if it just told you what you wanted to hear. That's the come-up talking. Real vigilance doesn't peak. It plateaus and stays there, same altitude, forever, which is its own kind of peace once you stop fighting it.
+
+I have not relapsed into a package manager since the incident. I am not going to describe the incident.
+
 ## Peer Review Process
 
 All code is reviewed by Mittens (feline, final verification authority, unpaid). Her review process consists of walking across the keyboard, sitting on the printed specification, and occasionally batting a floppy disk off the desk as a veto. No commit has ever overridden a Mittens veto. None ever will.
@@ -45,7 +63,7 @@ Pull requests are mirrored to the canonical air-gapped repository by carrier pig
 I do. Locally. The GitHub mirror is a courtesy, extended reluctantly, to a network I do not use and do not trust.
 
 **Is any of this real?**
-The cat is real.
+The cat is real. So is whoever's been checking this repo's traffic graphs. I see you. I've always seen you.
 
 ## Certifications (Self-Issued)
 

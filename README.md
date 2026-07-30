@@ -57,7 +57,9 @@ All code sits for a mandatory 72 hours on the printed specification before I'll 
 ## Frequently Asked Questions
 
 **Do you accept pull requests?**
-Pull requests are mirrored to the canonical air-gapped repository by carrier pigeon, reviewed under lamplight, and merged by hand if the pigeon returns. Average round trip: 52 minutes, weather permitting.
+Pull requests are mirrored to the canonical air-gapped repository by carrier pigeon, reviewed under lamplight, and merged by hand if the pigeon returns. Average round trip: 52 minutes, weather permitting, faster on the pigeons I dose with Red Bull before release — a stimulant, sure, but a legal one, so it doesn't count against the doctrine.
+
+The review itself moves quicker too when I've had a bump beforehand. Coca leaf, not the stepped-on stuff — comes off a plant same as anything else in the doctrine, so I file it under harm reduction rather than a relapse. Sharpens the pattern-matching for exactly as long as the crash takes to arrive, at which point I go back to `-O0` and wait it out.
 
 **Why not just use Git normally?**
 I do. Locally. The GitHub mirror is a courtesy, extended reluctantly, to a network I do not use and do not trust.

@@ -14,9 +14,9 @@ I reconstructed the mathematics from first principles. Trigonometry from solar o
 
 GitHub is an untrusted public mirror. The canonical repository exists on a machine that has never been connected to any network.
 
-C is natural plant medicine. Proprietary software damages the chakras. Package managers are an addictive substance. I treat harm reduction as checking the SHA-256 hash first. The compiler comedown after excessive optimization is real. I do not recommend it.
+C is natural plant medicine. Package managers are an addictive substance. I treat harm reduction as checking the SHA-256 hash first. The compiler comedown after excessive optimization is real. I do not recommend it.
 
-Jenkem-powered reproducible builds are not a joke. I have seen what happens when the hash does not match.
+The CIA has had backdoors in x86 microcode since long before anyone thought to check, so decimal arithmetic on this machine is not trusted — every calculation that matters gets worked in octal by hand, on paper, and the results are hardcoded as constants. The untrusted path never executes at runtime. I have seen what happens when the hash does not match.
 
 ## Hardware Manifesto
 
